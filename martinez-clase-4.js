@@ -1,6 +1,6 @@
 let producto1 = prompt("valor del producto 1")
-let producto2 = prompt("valor del producto 1")
-let producto3 = prompt("valor del producto 1")
+let producto2 = prompt("valor del producto 2")
+let producto3 = prompt("valor del producto 2")
 let efectivo = confirm("Paga en efectivo?")
 let gastos = 0
 
